@@ -1,0 +1,6 @@
+classifieur,time,f1_score,Precision,Recall
+vect-sgd,0.76,"[0.854, 0.0]",0.854,0.854
+vect-tfidf-sgd,0.54,"[0.884, 0.0]",0.884,0.884
+vect-tfidf-svml,0.75,"[0.878, 0.0]",0.878,0.878
+vect-tfidf-logit,5.60,"[0.876, 0.0]",0.876,0.876
+vect-compl_nb,0.35,"[0.864, 0.0]",0.864,0.864
